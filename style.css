@@ -484,6 +484,10 @@ ul.social-network li {
       left: 0;
    }
 
+   .productDesc{
+      min-width: 110%;
+   }
+
    .productTitle {
       /* display: none; */
       position: absolute;
